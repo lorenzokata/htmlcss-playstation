@@ -31,3 +31,11 @@ nav{height: 70px; margin-top: 30px;}
 /* section ps5_overview */
 ._device img{height:100px;}
 /* fine section ps5_overview */
+
+/* section buy-now_banner 2 */
+.buynow_banner_2{
+    background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
+    background-size: cover;
+    background-position: center;
+}
+/* fine section buy-now_banner 2 */
