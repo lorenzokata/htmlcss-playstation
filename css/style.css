@@ -1,11 +1,14 @@
 /* debug */
-nav{height: 70px; margin-top: 30px;}
+
 /* debug */
 
 
 /* header */
 .logo_sony{height: 30px;}
+
+nav{height: 70px; margin-top: 30px;}
 /* fine header */
+
 
 /* section buy-now_banner */
 .buynow_banner{
@@ -16,6 +19,11 @@ nav{height: 70px; margin-top: 30px;}
 }
 
 .buynow_banner .row{
-    padding-top: 60%;
+    padding-top: 20%;
 }
 /* fine section buy-now_banner */
+
+
+/* game_banner */
+.game_banner img{border-radius: 20px;}
+/* fine game_banner */
