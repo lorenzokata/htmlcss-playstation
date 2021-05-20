@@ -1,0 +1,21 @@
+/* debug */
+nav{height: 70px; margin-top: 30px;}
+/* debug */
+
+
+/* header */
+.logo_sony{height: 30px;}
+/* fine header */
+
+/* section buy-now_banner */
+.buynow_banner{
+    margin-top: 100px;
+    background-image: url('../img/jumbo-bg.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.buynow_banner .row{
+    padding-top: 60%;
+}
+/* fine section buy-now_banner */
