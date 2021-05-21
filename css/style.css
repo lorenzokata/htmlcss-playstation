@@ -1,14 +1,7 @@
-/* debug */
-
-/* debug */
-
-
 /* header */
 .logo_sony{height: 30px;}
-
 nav{height: 70px; margin-top: 30px;}
 /* fine header */
-
 
 /* section buy-now_banner */
 .buynow_banner{
@@ -17,12 +10,10 @@ nav{height: 70px; margin-top: 30px;}
     background-size: cover;
     background-position: center;
 }
-
 .buynow_banner .row{
     padding-top: 20%;
 }
 /* fine section buy-now_banner */
-
 
 /* game_banner */
 .game_banner img{border-radius: 20px;}
@@ -39,3 +30,20 @@ nav{height: 70px; margin-top: 30px;}
     background-position: center;
 }
 /* fine section buy-now_banner 2 */
+
+/* section new_releases */
+.new_releases{background-color: #1F1F1F;}
+.new_releases img{border-radius: 30px;}
+/* fine section new_releases */
+
+/* section play station plus */
+.play_station_plus{background-color: #BEBCBB;}
+
+.play_station_plus .btn{background-color: #d9dadc; border:unset;}
+/* fine section play station plus */
+
+/* section play station now */
+.play_station_now{background-color: #161c3b;}
+
+.play_station_now .btn{background-color: white; border:unset;}
+/* fine section play station now */
