@@ -1,11 +1,14 @@
 /* header */
 .logo_sony{height: 30px;}
-nav{height: 70px; margin-top: 30px;}
+nav{height: 70px;}
 /* fine header */
+
+/* main */
+main{margin-top: 100px;}
+/* fine main */
 
 /* section buy-now_banner */
 .buynow_banner{
-    margin-top: 100px;
     background-image: url('../img/jumbo-bg.png');
     background-size: cover;
     background-position: center;
