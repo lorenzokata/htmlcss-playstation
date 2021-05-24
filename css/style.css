@@ -3,6 +3,11 @@
 nav{height: 70px;}
 /* fine header */
 
+/* nav */
+nav .freccia{width: 20px;}
+nav .lente{width: 25px; margin: 5px;}
+/* fine nav */
+
 /* main */
 main{margin-top: 100px;}
 /* fine main */
