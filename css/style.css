@@ -4,7 +4,7 @@ nav{height: 70px;}
 /* fine header */
 
 /* nav */
-nav .freccia{width: 20px;}
+nav .freccia{width: 10px;}
 nav .lente{width: 25px; margin: 5px;}
 /* fine nav */
 
@@ -24,11 +24,14 @@ main{margin-top: 100px;}
 /* fine section buy-now_banner */
 
 /* game_banner */
-.game_banner img{border-radius: 20px;}
+.game_banner img{border-radius: 20px; opacity: 0.6;}
+.game_banner img:hover{transform: translateY(-20%); opacity: 1; transition: 0.3s; transition-timing-function: ease-in-out;} 
 /* fine game_banner */
 
 /* section ps5_overview */
 ._device img{width:100%;}
+._device > div{opacity: 0.6;}
+._device > div:hover{opacity: 1;}
 /* fine section ps5_overview */
 
 /* section buy-now_banner 2 */
